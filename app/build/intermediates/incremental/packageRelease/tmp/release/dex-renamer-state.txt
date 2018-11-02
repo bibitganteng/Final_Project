@@ -1,0 +1,4 @@
+#Fri Nov 02 20:18:21 ICT 2018
+base.0=E\:\\Z\\FInal project mobile\\FInal project mobile\\Quiz-master\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

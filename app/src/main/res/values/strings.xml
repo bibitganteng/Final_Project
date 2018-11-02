@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Setelan</string>
+    <string name="str_next">Berikutnya</string>
+    <string name="title_activity_result">Hasil</string>
+
+    <string name="settings_menu_item">Setelan</string>
+
+
+</resources>
